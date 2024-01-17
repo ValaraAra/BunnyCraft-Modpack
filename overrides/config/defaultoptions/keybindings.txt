@@ -84,16 +84,16 @@ key_key.entityculling.toggle:key.keyboard.unknown:NONE
 key_key.modernfix.config:key.keyboard.unknown:NONE
 key_key.shetiphiancore.tool.next:key.keyboard.page.up:NONE
 key_key.shetiphiancore.tool.previous:key.keyboard.page.down:NONE
-key_iris.keybind.reload:key.keyboard.r:NONE
-key_iris.keybind.toggleShaders:key.keyboard.k:NONE
+key_iris.keybind.reload:key.keyboard.grave.accent:SHIFT
+key_iris.keybind.toggleShaders:key.keyboard.grave.accent:NONE
 key_iris.keybind.shaderPackSelection:key.keyboard.o:NONE
 key_Options Gui:key.keyboard.i:ALT
 key_key.solapplepie.open_food_book:key.keyboard.n:NONE
 key_key.botania_corporea_request:key.keyboard.c:NONE
 key_key.curios.open.desc:key.keyboard.g:NONE
 key_key.astikorcarts.desc:key.keyboard.r:NONE
-key_placebo.toggleTrails:key.keyboard.keypad.9:NONE
 key_cos.key.opencosarmorinventory:key.keyboard.unknown:NONE
+key_placebo.toggleTrails:key.keyboard.keypad.9:NONE
 key_placebo.toggleWings:key.keyboard.keypad.8:NONE
 key_key.relics.hud_up:key.keyboard.right.bracket:NONE
 key_key.relics.hud_down:key.keyboard.apostrophe:NONE
@@ -107,6 +107,7 @@ key_fpsreducer.key.forceIdle:key.keyboard.pause:NONE
 key_equipmentcompare.key.showTooltips:key.keyboard.left.shift:NONE
 key_key.carry.desc:key.keyboard.left.shift:NONE
 key_key.spirit.toggle:key.keyboard.v:NONE
+key_key.ftbultimine:key.mouse.5:NONE
 key_gui.xaero_switch_waypoint_set:key.keyboard.unknown:NONE
 key_gui.xaero_instant_waypoint:key.keyboard.keypad.add:NONE
 key_gui.xaero_toggle_slime:key.keyboard.unknown:NONE
@@ -128,7 +129,6 @@ key_gui.xaero_alternative_list_players:key.keyboard.unknown:NONE
 key_gui.xaero_toggle_tracked_players:key.keyboard.unknown:NONE
 key_gui.xaero_toggle_pac_chunk_claims:key.keyboard.unknown:NONE
 key_gui.xaero_minimap_settings:key.keyboard.y:ALT
-key_key.ftbultimine:key.mouse.5:NONE
 key_create.keyinfo.toolmenu:key.keyboard.left.alt:NONE
 key_create.keyinfo.toolbelt:key.keyboard.left.alt:NONE
 key_key.waila.config:key.keyboard.keypad.0:NONE
@@ -138,7 +138,6 @@ key_key.waila.narrate:key.keyboard.keypad.6:NONE
 key_key.waila.show_details:key.keyboard.left.shift:NONE
 key_key.waila.show_recipes:key.keyboard.keypad.3:NONE
 key_key.waila.show_uses:key.keyboard.keypad.4:NONE
-key_quark.keybind.lock_rotation:key.keyboard.k:NONE
 key_quark.emote.no:key.keyboard.unknown:NONE
 key_quark.emote.yes:key.keyboard.unknown:NONE
 key_quark.emote.wave:key.keyboard.unknown:NONE
@@ -157,16 +156,17 @@ key_quark.keybind.patreon_emote.dab:key.keyboard.unknown:NONE
 key_quark.keybind.patreon_emote.jet:key.keyboard.unknown:NONE
 key_quark.keybind.patreon_emote.exorcist:key.keyboard.unknown:NONE
 key_quark.keybind.patreon_emote.zombie:key.keyboard.unknown:NONE
+key_key.presencefootsteps.settings:key.keyboard.f10:NONE
+key_quark.keybind.change_hotbar:key.keyboard.z:NONE
+key_quark.keybind.lock_rotation:key.keyboard.k:NONE
+key_quark.keybind.camera_mode:key.keyboard.f12:NONE
+key_quark.keybind.back:key.mouse.4:NONE
 key_quark.keybind.transfer_insert:key.keyboard.unknown:NONE
 key_quark.keybind.transfer_extract:key.keyboard.unknown:NONE
 key_quark.keybind.shift_lock:key.keyboard.unknown:NONE
-key_quark.keybind.back:key.mouse.4:NONE
 key_quark.keybind.sort_player:key.keyboard.unknown:NONE
 key_quark.keybind.sort_container:key.keyboard.unknown:NONE
 key_quark.keybind.autorun:key.keyboard.unknown:NONE
-key_key.presencefootsteps.settings:key.keyboard.f10:NONE
-key_quark.keybind.change_hotbar:key.keyboard.z:NONE
-key_quark.keybind.camera_mode:key.keyboard.f12:NONE
 key_gui.xaero_open_map:key.keyboard.m:NONE
 key_gui.xaero_open_settings:key.keyboard.right.bracket:NONE
 key_gui.xaero_map_zoom_in:key.keyboard.unknown:NONE

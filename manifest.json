@@ -232,11 +232,6 @@
 			"required": true
 		},
 		{
-			"fileID": 4631412,
-			"projectID": 313213,
-			"required": true
-		},
-		{
 			"fileID": 4035917,
 			"projectID": 520110,
 			"required": true
@@ -304,6 +299,11 @@
 		{
 			"fileID": 4044205,
 			"projectID": 400058,
+			"required": true
+		},
+		{
+			"fileID": 3858196,
+			"projectID": 252848,
 			"required": true
 		},
 		{
@@ -397,11 +397,6 @@
 			"required": true
 		},
 		{
-			"fileID": 3671298,
-			"projectID": 543661,
-			"required": true
-		},
-		{
 			"fileID": 4509008,
 			"projectID": 74072,
 			"required": true
@@ -434,6 +429,11 @@
 		{
 			"fileID": 4458118,
 			"projectID": 482123,
+			"required": true
+		},
+		{
+			"fileID": 3773750,
+			"projectID": 500273,
 			"required": true
 		},
 		{
@@ -872,11 +872,6 @@
 			"required": true
 		},
 		{
-			"fileID": 3820697,
-			"projectID": 532286,
-			"required": true
-		},
-		{
 			"fileID": 4593548,
 			"projectID": 238222,
 			"required": true
@@ -1285,5 +1280,5 @@
 	},
 	"name": "Bunny Craft",
 	"overrides": "overrides",
-	"version": "1.0.2"
+	"version": "1.1.0"
 }

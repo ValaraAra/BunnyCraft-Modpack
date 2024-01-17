@@ -161,13 +161,13 @@
 		#Whether allow button use
 		allowButton = true
 		#Whether allow door use
-		allowDoors = false
+		allowDoors = true
 		#Whether allow trap door use
-		allowTrapDoors = false
+		allowTrapDoors = true
 		#Whether allow crafting table use
 		allowCraftingTable = false
 		#Whether allow fence gates use
-		allowFenceGates = false
+		allowFenceGates = true
 		#Whether allow to interact with rest stuffs.
 		allowRestUse = false
 

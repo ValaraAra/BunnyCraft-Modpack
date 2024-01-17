@@ -13,16 +13,13 @@
             "SORT_ROWS": {
                 "horizontalOffset": 30
             },
-            "MOVE_TO_CONTAINER": {
-                "horizontalOffset": 49
-            },
             "SHOW_EDITOR": {
-                "horizontalOffset": -5,
-                "top": 15
+                "horizontalOffset": 36,
+                "top": 332
             },
             "SETTINGS": {
-                "horizontalOffset": -5,
-                "top": 13
+                "horizontalOffset": 22,
+                "top": 317
             }
         }
     }
